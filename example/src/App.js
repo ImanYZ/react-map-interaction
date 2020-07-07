@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 
 // See ../copy-to-example.sh
-import { MapInteractionCSS } from 'react-map-interaction';
+// import { MapInteractionCSS } from 'react-map-interaction';
+import MapInteractionCSS from './src/MapInteractionCSS';
 
 class App extends Component {
   constructor(props) {
